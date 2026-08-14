@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm SKM 👋
 
-<!--
-**skm-edu4/skm-edu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer focused on building reliable, user-friendly software and continuously improving through practical learning and collaboration.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 Currently working on: personal and educational software projects
+- 🌱 Currently learning: modern backend architecture and cloud-native practices
+- 👯 Open to collaborating on: meaningful open-source projects
+- 💬 Ask me about: software development fundamentals and project structure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express
+- **Tools:** Git, GitHub, VS Code
+
+## 📌 Featured Work
+- Add your best repositories here with short one-line descriptions.
+- Example: `project-name` — Brief description of what it does and why it matters.
+
+## 📫 Connect
+- GitHub: [@skm-edu4](https://github.com/skm-edu4)
+- LinkedIn: Add your profile link
+- Email: Add your professional email
+
+---
+
+_Thanks for visiting my profile._
